@@ -1,16 +1,24 @@
-## Hi there 👋
+# Minkang Seo (서민강) 👋
 
-<!--
-**minkangseo/minkangseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Quant & Financial Data Scientist
+Statistics & AI Student Exploring Financial Markets Through Quantitative Lenses.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+- 🪖 Serving as Senior KATUSA @ ROK-US Combined Division (ETS: Jun 2026)
+- 🏛️ Studying Statistics & AI @ Seoul National University
+- 💡 Interests: Algorithmic Trading, Portfolio Optimization, Risk Management
+
+## 🛠️ Tech Stack
+- Languages: Python (Proficient), R (Competent)
+- Data Tools: NumPy, Pandas, Scikit-learn, Statsmodels
+- Certifications: Certified Investment Manager (투자자산운용사), ADsP
+- Awards: SNU College of Natural Sciences Dean's List (Fall 2023, Fall 2024)
+
+## 📁 Projects
+- Asset Allocation Strategies Backtester (Dual Momentum, VAA, HAA, etc.)
+- Statistical Analysis on Optimal Cash Holdings
+
+## 📫 Contact
+- Email: minkang2004@gmail.com
